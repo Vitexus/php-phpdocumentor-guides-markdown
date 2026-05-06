@@ -1,0 +1,5 @@
+php-phpdocumentor-guides-markdown (1.9.6) trixie; urgency=low
+
+  * Initial Debian packaging
+
+ -- Vítězslav Dvořák <info@vitexsoftware.cz>  Wed, 06 May 2026 00:00:00 +0000
